@@ -1,0 +1,28 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(225, 215, 20);
+}
+
+ul.home {
+  padding-left: 575px; 
+}
+
+div.img {
+    display: grid;
+    place-items: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+p.home {
+    margin-top: 24px;
+    text-align: center;
+}
